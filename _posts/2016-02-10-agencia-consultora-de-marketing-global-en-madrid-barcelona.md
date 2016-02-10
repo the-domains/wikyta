@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T19:30:00.878Z'
-dateModified: '2016-02-10T19:29:53.620Z'
+datePublished: '2016-02-10T19:30:31.755Z'
+dateModified: '2016-02-10T19:30:27.265Z'
 title: 'Agencia Consultora de Marketing Global en Madrid, Barcelona, ​​Zaragoza ...'
 author: []
 sourcePath: _posts/2016-02-10-agencia-consultora-de-marketing-global-en-madrid-barcelona.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: agencia-consultora-de-marketing-global-en-madrid-barcelona/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Quienes somos**
