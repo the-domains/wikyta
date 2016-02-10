@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Comunicación, publicidad, estrategias, campañas marketing, posicionamiento en buscadores, diseño web, marketing hotelero, todo para tu empresa y con un sólo fin: marketing con resultados'
-datePublished: '2016-02-10T18:08:29.948Z'
-dateModified: '2016-02-10T18:08:29.304Z'
+datePublished: '2016-02-10T18:09:51.424Z'
+dateModified: '2016-02-10T18:09:49.392Z'
 title: 'Agencia consultora de Marketing global en Madrid, Barcelona, Zaragoza...'
 author: []
 sourcePath: _posts/2016-02-10-agencia-consultora-de-marketing-global-en-madrid-barcelona.md
