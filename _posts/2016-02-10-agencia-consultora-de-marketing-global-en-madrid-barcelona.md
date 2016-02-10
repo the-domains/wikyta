@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Comunicación, publicidad, estrategias, campañas marketing, posicionamiento en buscadores, diseño web, marketing hotelero, todo para tu empresa y con un sólo fin: marketing con resultados'
-datePublished: '2016-02-10T18:52:23.936Z'
-dateModified: '2016-02-10T18:52:14.142Z'
-title: 'Agencia Consultora de Marketing Global en Madrid, Barcelona, ​​Zaragoza ...'
+datePublished: '2016-02-10T18:54:56.911Z'
+dateModified: '2016-02-10T18:54:54.968Z'
+title: Quienes Somos
 author: []
 sourcePath: _posts/2016-02-10-agencia-consultora-de-marketing-global-en-madrid-barcelona.md
 published: true
@@ -24,6 +24,8 @@ _type: Article
 ---
 ![Somos guapos](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a31ce448d0d4b42cfe765e531851b39f0b7350d.jpg)
 
+# Quienes Somos
+
 # [Agencia Consultora de Marketing Global en Madrid, Barcelona, ​​Zaragoza][0] ...
 
-[0]: http://www.wikyta.com/ "Agencias de consultoras de marketing"
+[0]: http://www.wikyta.com/ "Agencias de consultoras de Comercialización"
